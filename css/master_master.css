@@ -1,0 +1,81 @@
+#u15981
+{
+	background-color: #0C191C;
+	border-width: 0px;
+	border-color: transparent;
+}
+
+#u81236
+{
+	background-color: transparent;
+	border-width: 0px;
+	border-color: transparent;
+}
+
+#u15982-4
+{
+	color: #FFFFFF;
+	text-align: center;
+	border-width: 0px;
+	font-weight: 400;
+	background-color: transparent;
+	line-height: 10px;
+	font-size: 10px;
+	border-color: transparent;
+	font-family: raleway, sans-serif;
+}
+
+@media (min-width: 1201px)
+{
+	#u15981_align_to_page
+	{
+		max-width: 1306px;
+	}
+
+}
+
+@media (min-width: 1051px) and (max-width: 1200px)
+{
+	#u15981_align_to_page
+	{
+		max-width: 1306px;
+	}
+
+}
+
+@media (min-width: 801px) and (max-width: 1050px)
+{
+	#u15981_align_to_page
+	{
+		max-width: 1050px;
+	}
+
+}
+
+@media (min-width: 641px) and (max-width: 800px)
+{
+	#u15981_align_to_page
+	{
+		max-width: 800px;
+	}
+
+}
+
+@media (min-width: 451px) and (max-width: 640px)
+{
+	#u15981_align_to_page
+	{
+		max-width: 640px;
+	}
+
+}
+
+@media (max-width: 450px)
+{
+	#u15981_align_to_page
+	{
+		max-width: 450px;
+	}
+
+}
+

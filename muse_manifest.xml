@@ -1,0 +1,139 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.vinarahimian.com" resolutions="1x" timestamp="1471317277620">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="318993305" ref="phone>index"/>
+      <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="212208109" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4113269713" seo="true" mt="1471050145859" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4233708873"/>
+    <file name="master_master.css" crc="4284949916" ref="index"/>
+    <file name="nomq_preview_master_master.css" crc="4026674375" ref="index"/>
+    <file name="index.css" crc="4057606196" ref="index"/>
+    <file name="nomq_index.css" crc="3910853777" ref="index"/>
+    <file name="iefonts_index.css" crc="255040003" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:phone>index"/>
+    <file name="museutils.js" crc="531812214" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="84559013" ref="index:phone>index"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:phone>index"/>
+    <file name="webpro.js" crc="4156477058" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:phone>index"/>
+    <file name="form_check.php" crc="373582055" ref="index:phone>index"/>
+    <file name="form_throttle.php" crc="211381018" ref="index:phone>index"/>
+    <file name="form_process.php" crc="6354943" ref="index:phone>index"/>
+    <file name="form-u5058.php" crc="3870569997" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3974494556" ref="phone>index"/>
+    <file name="form-u91705.php" crc="451499764" ref="phone>index"/>
+    <file name="form-u93407.php" crc="347906175" ref="phone>index"/>
+    <file name="museredirect.js" crc="524071285" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="270971446" ref="index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u65605.png" crc="4078705967" ref="index"/>
+    <file name="linked-in-crop-u66691.jpg" crc="4157962063" ref="index"/>
+    <file name="scdc-logo-crop-u70131.png" crc="106467391" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pattern-stripes.png" crc="305496384" ref="index:phone>index"/>
+    <file name="u5069-17.png" crc="4034071086" ref="index"/>
+    <file name="u5069-17-r.png" crc="289675563" ref="index"/>
+    <file name="u5069-17-m.png" crc="289675563" ref="index"/>
+    <file name="u5069-17-fs.png" crc="4034071086" ref="index"/>
+    <file name="icn-scl-lnkdin.png" crc="54047158" seo="true" ref="index:phone>index"/>
+    <file name="icn-scl-fb.png" crc="3862685184" seo="true" ref="index:phone>index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u656052.png" crc="4224099700" ref="index"/>
+    <file name="linked-in-crop-u666912.jpg" crc="113795434" ref="index"/>
+    <file name="shield2015.png" crc="136078791" seo="true" ref="index:phone>index"/>
+    <file name="university_of_tehran_logosvg.png" crc="525065774" seo="true" ref="index:phone>index"/>
+    <file name="mit_logosvg.png" crc="4086654812" seo="true" ref="index:phone>index"/>
+    <file name="scdc-logo-crop-u701312.png" crc="4178919582" ref="index"/>
+    <file name="u5069-172.png" crc="4034071086" ref="index"/>
+    <file name="u5069-17-r2.png" crc="289675563" ref="index"/>
+    <file name="u5069-17-m2.png" crc="289675563" ref="index"/>
+    <file name="u5069-17-fs2.png" crc="4034071086" ref="index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u656053.png" crc="519311253" ref="index"/>
+    <file name="linked-in-crop-u666913.jpg" crc="4087809000" ref="index"/>
+    <file name="scdc-logo-crop-u701313.png" crc="3864806438" ref="index"/>
+    <file name="u5069-173.png" crc="3759751333" ref="index"/>
+    <file name="u5069-17-r3.png" crc="4028962155" ref="index"/>
+    <file name="u5069-17-m3.png" crc="4028962155" ref="index"/>
+    <file name="u5069-17-fs3.png" crc="3759751333" ref="index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u656054.png" crc="4134741097" ref="index"/>
+    <file name="linked-in-crop-u666914.jpg" crc="3877598463" ref="index"/>
+    <file name="scdc-logo-crop-u701314.png" crc="296637969" ref="index"/>
+    <file name="u5069-174.png" crc="3812192955" ref="index"/>
+    <file name="u5069-17-r4.png" crc="3803606696" ref="index"/>
+    <file name="u5069-17-m4.png" crc="3803606696" ref="index"/>
+    <file name="u5069-17-fs4.png" crc="3812192955" ref="index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u656055.png" crc="407924345" ref="index"/>
+    <file name="linked-in-crop-u666915.jpg" crc="3897808548" ref="index"/>
+    <file name="scdc-logo-crop-u701315.png" crc="4063195070" ref="index"/>
+    <file name="u5069-175.png" crc="4011314524" ref="index"/>
+    <file name="u5069-17-r5.png" crc="224213389" ref="index"/>
+    <file name="u5069-17-m5.png" crc="224213389" ref="index"/>
+    <file name="u5069-17-fs5.png" crc="4011314524" ref="index"/>
+    <file name="01_2-crop-u71714.jpg" crc="3896479311" ref="index"/>
+    <file name="swarm_ha-crop-u71803.jpg" crc="525742633" ref="index"/>
+    <file name="mobile_1-crop-u71635.png" crc="384060239" ref="index"/>
+    <file name="01_2-crop-u717142.jpg" crc="3896479311" ref="index"/>
+    <file name="swarm_ha-crop-u718032.jpg" crc="525742633" ref="index"/>
+    <file name="mobile_1-crop-u716352.png" crc="384060239" ref="index"/>
+    <file name="01_2-crop-u717143.jpg" crc="31119352" ref="index"/>
+    <file name="swarm_ha-crop-u718033.jpg" crc="4066583197" ref="index"/>
+    <file name="mobile_1-crop-u716353.png" crc="378181590" ref="index"/>
+    <file name="issuug.png" crc="4035001539" seo="true" ref="index:phone>index"/>
+    <file name="01_2-crop-u717144.jpg" crc="31119352" ref="index"/>
+    <file name="swarm_ha-crop-u718034.jpg" crc="4066583197" ref="index"/>
+    <file name="mobile_1-crop-u716354.png" crc="378181590" ref="index"/>
+    <file name="01_2-crop-u717145.jpg" crc="31119352" ref="index"/>
+    <file name="swarm_ha-crop-u718035.jpg" crc="4066583197" ref="index"/>
+    <file name="mobile_1-crop-u716355.png" crc="378181590" ref="index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u656056.png" crc="211033539" ref="index"/>
+    <file name="linked-in-crop-u666916.jpg" crc="294338244" ref="index"/>
+    <file name="scdc-logo-crop-u701316.png" crc="251196081" ref="index"/>
+    <file name="01_2-crop-u717146.jpg" crc="3807984495" ref="index"/>
+    <file name="swarm_ha-crop-u718036.jpg" crc="4066583197" ref="index"/>
+    <file name="mobile_1-crop-u716356.png" crc="378181590" ref="index"/>
+    <file name="u5069-176.png" crc="117838391" ref="index"/>
+    <file name="u5069-17-r6.png" crc="307449318" ref="index"/>
+    <file name="u5069-17-m6.png" crc="307449318" ref="index"/>
+    <file name="u5069-17-fs6.png" crc="117838391" ref="index"/>
+    <file name="thin-scdc_0-u74966.png" crc="3866403151" ref="index"/>
+    <file name="thin-scdc_0-u749662.png" crc="398071359" ref="index"/>
+    <file name="thin-scdc_0-u749663.png" crc="4169329871" ref="index"/>
+    <file name="thin-scdc_0-u749664.png" crc="404905974" ref="index"/>
+    <file name="thin-scdc_0-u749665.png" crc="479891842" ref="index"/>
+    <file name="thin-scdc_0-u749666.png" crc="3910516580" ref="index"/>
+    <file name="new_york_city_sandy_blackout_the-city-and-the-storm-zoom11-u91645.png" crc="3959238053" ref="phone>index"/>
+    <file name="linked-in-crop-u91726.jpg" crc="11266899" ref="phone>index"/>
+    <file name="linked-in-crop-u93428.jpg" crc="11266899" ref="phone>index"/>
+    <file name="thin-scdc_0-u91772.png" crc="83453370" ref="phone>index"/>
+    <file name="thin-scdc_0-u93474.png" crc="83453370" ref="phone>index"/>
+    <file name="scdc-logo-crop-u91774.png" crc="200906417" ref="phone>index"/>
+    <file name="scdc-logo-crop-u93476.png" crc="200906417" ref="phone>index"/>
+    <file name="01_2-crop-u91749.jpg" crc="3807984495" ref="phone>index"/>
+    <file name="swarm_ha-crop-u91756.jpg" crc="4066583197" ref="phone>index"/>
+    <file name="mobile_1-crop-u91752.png" crc="378181590" ref="phone>index"/>
+    <file name="01_2-crop-u93451.jpg" crc="3807984495" ref="phone>index"/>
+    <file name="swarm_ha-crop-u93458.jpg" crc="4066583197" ref="phone>index"/>
+    <file name="mobile_1-crop-u93454.png" crc="378181590" ref="phone>index"/>
+    <file name="u91720-17.png" crc="117838391" ref="phone>index"/>
+    <file name="u91720-17-r.png" crc="307449318" ref="phone>index"/>
+    <file name="u91720-17-m.png" crc="307449318" ref="phone>index"/>
+    <file name="u91720-17-fs.png" crc="117838391" ref="phone>index"/>
+    <file name="u93422-17.png" crc="117838391" ref="phone>index"/>
+    <file name="u93422-17-r.png" crc="307449318" ref="phone>index"/>
+    <file name="u93422-17-m.png" crc="307449318" ref="phone>index"/>
+    <file name="u93422-17-fs.png" crc="117838391" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="4221539614" seo="true" mt="1471317230920" redirect="true"/>
+</manifest>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.vinarahimian.com/images/icn-scl-lnkdin.png</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.vinarahimian.com/images/icn-scl-fb.png</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.vinarahimian.com/images/shield2015.png</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.vinarahimian.com/images/university_of_tehran_logosvg.png</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.vinarahimian.com/images/mit_logosvg.png</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.vinarahimian.com/images/issuug.png</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.vinarahimian.com/index.html</loc>
+    <lastmod>2016-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.vinarahimian.com/phone/index.html"/>
+  </url>
+</urlset>
